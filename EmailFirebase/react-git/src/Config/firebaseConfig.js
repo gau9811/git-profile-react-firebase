@@ -4,7 +4,7 @@ export default {
     databaseURL: "",
     projectId: "",
     storageBucket: "",
-    messagingSenderId: "957598049304",
+    messagingSenderId: "",
     appId: "",
     measurementId: ""
 };
